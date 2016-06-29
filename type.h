@@ -4,5 +4,6 @@
 class Type{
 public:
 	void show(){printf("");}
+
 };
 #endif
