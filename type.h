@@ -1,5 +1,5 @@
 #ifndef type_h
-#define ty[e_h
+#define type_h
 
 class Type{
 
